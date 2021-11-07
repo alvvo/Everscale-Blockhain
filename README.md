@@ -63,7 +63,6 @@ contract <имя_контракта>{
     TvmCell <cell_0>
     TvmCell <cell_1>
 
-    // Над конструктором
     constructor() public{
         ...
     }
